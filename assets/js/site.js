@@ -4,6 +4,7 @@
   nav.addEventListener('click',function(e){if(e.target.tagName==='A'){nav.classList.remove('open');btn.setAttribute('aria-expanded','false')}});
 
   var form=document.getElementById('waForm'),link=document.getElementById('waLink'),mail=document.getElementById('mailLink');
+  if(!form){track();return;}
   function v(id){var el=document.getElementById(id);return el?el.value.trim():''}
   function build(){
     var need=[].slice.call(form.querySelectorAll('.chips input:checked')).map(function(c){return c.value});
