@@ -7,7 +7,7 @@ Organiziramo i vodimo postupak, a stručne poslove izvode ovlaštene tvrtke s ko
 ## Stranice
 
 - [Početna](https://istrainspekt.com/): Pregled usluga i česta pitanja.
-- [Usluge](https://istrainspekt.com/usluge): Procjena rizika, osposobljavanja, ispitivanja, MTU, plan evakuacije, akustika i Blower Door. Sve obveze na jednom mjestu, s cijenom i rokom po stavci.
+- [Usluge](https://istrainspekt.com/usluge): Procjena rizika, osposobljavanja, ispitivanja, MTU, plan evakuacije, akustika i Blower Door. Sve obveze na jednom mjestu, s cijenom po stavci.
 - [Procjena rizika i osposobljavanje](https://istrainspekt.com/procjena-rizika-osposobljavanje): Procjena rizika za sve poslove kod poslodavca, program osposobljavanja, osposobljavanje radnika, poslodavca i ovlaštenika te poslovi s posebnim uvjetima rada.
 - [Minimalno-tehnički uvjeti](https://istrainspekt.com/mtu): Rješenje o minimalno-tehničkim uvjetima za trgovine i ugostiteljske objekte u Istri: dokumentacija, ispitivanja, rokovi, nastavak djelatnosti i privremena rješenja.
 - [Ispitivanja](https://istrainspekt.com/ispitivanja): Ispitivanje električnih instalacija, gromobrana, panik rasvjete, radne opreme, radnog okoliša, sustava zaštite od požara, ventilacije te buke i zvučne izolacije.
