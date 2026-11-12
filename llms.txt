@@ -7,11 +7,11 @@ Organiziramo i vodimo postupak, a stručne poslove izvode ovlaštene tvrtke s ko
 ## Stranice
 
 - [Početna](https://istrainspekt.com/): Pregled usluga i česta pitanja.
-- [Usluge](https://istrainspekt.com/usluge): Procjena rizika, osposobljavanja, ispitivanja, MTU, plan evakuacije, akustika i Blower Door. Sve obveze na jednom mjestu, s cijenom po stavci.
-- [Procjena rizika i osposobljavanje](https://istrainspekt.com/procjena-rizika-osposobljavanje): Procjena rizika za sve poslove kod poslodavca, program osposobljavanja, osposobljavanje radnika, poslodavca i ovlaštenika te poslovi s posebnim uvjetima rada.
-- [Minimalno-tehnički uvjeti](https://istrainspekt.com/mtu): Rješenje o minimalno-tehničkim uvjetima za trgovine i ugostiteljske objekte u Istri: dokumentacija, ispitivanja, rokovi, nastavak djelatnosti i privremena rješenja.
-- [Ispitivanja](https://istrainspekt.com/ispitivanja): Ispitivanje električnih instalacija, gromobrana, panik rasvjete, radne opreme, radnog okoliša, sustava zaštite od požara, ventilacije te buke i zvučne izolacije.
-- [Prva pomoć i plan evakuacije](https://istrainspekt.com/prva-pomoc-evakuacija): Osposobljavanje radnika za pružanje prve pomoći na vašoj lokaciji, ormarić prve pomoći te izrada plana evakuacije i spašavanja s tekstualnim i grafičkim dijelom.
-- [Za investitore i izvođače](https://istrainspekt.com/investitori-izvodaci): Ispitivanje zrakopropusnosti (Blower Door), akustička mjerenja i iskaznica prema NN 71/2025, energetski certifikat te mjerenje buke za tehnički pregled nove zgrade.
-- [Zakonske obveze i kazne](https://istrainspekt.com/obveze-i-kazne): Što inspektor može narediti odmah, kako se kažnjavaju poslodavac i odgovorna osoba te kada propust u zaštiti na radu i zaštiti od požara postaje kazneno djelo.
-- [Kontakt](https://istrainspekt.com/kontakt): Pošaljite upit za zaštitu na radu, MTU ili ispitivanja preko WhatsAppa, telefona ili e-pošte. Pregled postojeće dokumentacije je besplatan.
+- [Usluge](https://istrainspekt.com/usluge/): Procjena rizika, osposobljavanja, ispitivanja, MTU, plan evakuacije, akustika i Blower Door. Sve obveze na jednom mjestu, s cijenom po stavci.
+- [Procjena rizika i osposobljavanje](https://istrainspekt.com/procjena-rizika-osposobljavanje/): Procjena rizika za sve poslove kod poslodavca, program osposobljavanja, osposobljavanje radnika, poslodavca i ovlaštenika te poslovi s posebnim uvjetima rada.
+- [Minimalno-tehnički uvjeti](https://istrainspekt.com/mtu/): Rješenje o minimalno-tehničkim uvjetima za trgovine i ugostiteljske objekte u Istri: dokumentacija, ispitivanja, rokovi, nastavak djelatnosti i privremena rješenja.
+- [Ispitivanja](https://istrainspekt.com/ispitivanja/): Ispitivanje električnih instalacija, gromobrana, panik rasvjete, radne opreme, radnog okoliša, sustava zaštite od požara, ventilacije te buke i zvučne izolacije.
+- [Prva pomoć i plan evakuacije](https://istrainspekt.com/prva-pomoc-evakuacija/): Osposobljavanje radnika za pružanje prve pomoći na vašoj lokaciji, ormarić prve pomoći te izrada plana evakuacije i spašavanja s tekstualnim i grafičkim dijelom.
+- [Za investitore i izvođače](https://istrainspekt.com/investitori-izvodaci/): Ispitivanje zrakopropusnosti (Blower Door), akustička mjerenja i iskaznica prema NN 71/2025, energetski certifikat te mjerenje buke za tehnički pregled nove zgrade.
+- [Zakonske obveze i kazne](https://istrainspekt.com/obveze-i-kazne/): Što inspektor može narediti odmah, kako se kažnjavaju poslodavac i odgovorna osoba te kada propust u zaštiti na radu i zaštiti od požara postaje kazneno djelo.
+- [Kontakt](https://istrainspekt.com/kontakt/): Pošaljite upit za zaštitu na radu, MTU ili ispitivanja preko WhatsAppa, telefona ili e-pošte. Pregled postojeće dokumentacije je besplatan.

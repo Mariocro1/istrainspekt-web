@@ -46,7 +46,7 @@
         '<label><input type="checkbox" checked disabled> <span><b>Nužni</b>Pamte vaš izbor o kolačićima. Uvijek uključeni.</span></label>'+
         '<label><input type="checkbox" id="ck-a"> <span><b>Analitički</b>Google Analytics: broj posjeta i pregledane stranice.</span></label>'+
         '<label><input type="checkbox" id="ck-m"> <span><b>Marketinški</b>Google Ads: mjerenje upita koji dolaze preko oglasa.</span></label>'+
-        '<p class="ck-more"><a href="/kolacici">Više o kolačićima</a></p>'+
+        '<p class="ck-more"><a href="/kolacici/">Više o kolačićima</a></p>'+
       '</div>'+
       '<div class="ck-btns">'+
         '<button type="button" class="btn btn-primary" data-ck="all">Prihvati sve</button>'+
